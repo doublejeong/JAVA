@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import edu.global.ex.page.Criteria;
 import edu.global.ex.page.PageVO;
 import edu.global.ex.service.BoardService;
+import edu.global.ex.service.BoardService1;
 import edu.global.ex.vo.BoardVO;
 import lombok.extern.slf4j.Slf4j;
 
@@ -111,8 +112,6 @@ public class BoardController {
 		   
 		   return "redirect:list";
 	   }
-	   
-	   
-	
+
 	
 }

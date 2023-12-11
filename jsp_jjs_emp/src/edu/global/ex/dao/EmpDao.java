@@ -8,7 +8,6 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.global.ex.dto.DeptDto;
 import edu.global.ex.dto.EmpDto;
 
 public class EmpDao {
